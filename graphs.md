@@ -1,6 +1,6 @@
 # Mermaid
 ```mermaid
-flowchart TD
+flowchart LR
     102((102))-->705((705))
     102((102))-->415((415))
 
